@@ -1,0 +1,12 @@
+q1
+#!/bin/bash
+case $1 in
+all)
+echo "none"
+;;
+none)
+echo "all"
+*)
+:wq
+
+ll
